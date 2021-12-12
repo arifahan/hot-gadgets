@@ -11,13 +11,33 @@
 .see-all{
    color: rgb(255, 166, 0);
 }
-.smartphone-card h2 {
-    font-weight: 600;
-
-}
 .smartphone {
+    padding-bottom: 50px;
+}
+.laptop {
     padding-bottom: 50px;
 }
 .container {
     margin-bottom: 100px;
+}
+.smartphone-card h2, p{
+    text-align:center;
+}
+.smartphone-card h2{
+    padding-top: 25px;
+    font-weight: 600;
+}
+.laptop-card h2, p{
+    text-align:center;
+}
+.laptop-card h2{
+    padding-top: 25px;
+    font-weight: 600;
+}
+.bar-yellow {
+    border-top: 7px solid #ffac13;
+    width: 100px;
+}
+.img-padding{
+    padding-bottom: 100px;
 }
